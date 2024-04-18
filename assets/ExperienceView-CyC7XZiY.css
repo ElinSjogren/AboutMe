@@ -1,0 +1,1 @@
+@media screen and (max-width: 750px){.tableWrapper,.rowsOfData{display:grid;padding:5px}.tableHeadings{display:none}.dataCell:before{content:attr(data-cell)": ";font-weight:500}}.rowsOfData:nth-child(2n){background-color:#292929}.tableHeadings{background-color:#000}.experienceContainer{width:80vw;height:fit-content;padding:2rem;box-shadow:0 0 25px 8px #fe0}
